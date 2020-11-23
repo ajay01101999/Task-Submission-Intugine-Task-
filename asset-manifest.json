@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Task-Submission-Intugine-Task/static/css/main.84af21ca.chunk.css",
+    "main.js": "/Task-Submission-Intugine-Task/static/js/main.2e5bf5a3.chunk.js",
+    "main.js.map": "/Task-Submission-Intugine-Task/static/js/main.2e5bf5a3.chunk.js.map",
+    "runtime-main.js": "/Task-Submission-Intugine-Task/static/js/runtime-main.ff5049a0.js",
+    "runtime-main.js.map": "/Task-Submission-Intugine-Task/static/js/runtime-main.ff5049a0.js.map",
+    "static/js/2.a599bdb6.chunk.js": "/Task-Submission-Intugine-Task/static/js/2.a599bdb6.chunk.js",
+    "static/js/2.a599bdb6.chunk.js.map": "/Task-Submission-Intugine-Task/static/js/2.a599bdb6.chunk.js.map",
+    "index.html": "/Task-Submission-Intugine-Task/index.html",
+    "static/css/main.84af21ca.chunk.css.map": "/Task-Submission-Intugine-Task/static/css/main.84af21ca.chunk.css.map",
+    "static/js/2.a599bdb6.chunk.js.LICENSE.txt": "/Task-Submission-Intugine-Task/static/js/2.a599bdb6.chunk.js.LICENSE.txt",
+    "static/media/logo.60097ea2.svg": "/Task-Submission-Intugine-Task/static/media/logo.60097ea2.svg",
+    "static/media/profile.2fbd2bc9.svg": "/Task-Submission-Intugine-Task/static/media/profile.2fbd2bc9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff5049a0.js",
+    "static/js/2.a599bdb6.chunk.js",
+    "static/css/main.84af21ca.chunk.css",
+    "static/js/main.2e5bf5a3.chunk.js"
+  ]
+}
